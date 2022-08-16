@@ -56,7 +56,7 @@ public class Main {
                 System.out.println(weight3[i]);
             };
         }
-
+//
         for(int i=0; i<=weight1.length-1; i++){
             if ((weight1[i]%2)==1){
                 weight1[i]=weight1[i]+1;
